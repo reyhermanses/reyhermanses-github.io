@@ -7,8 +7,9 @@ export default {
   title: 'Components/Autocompleter',
   component: CAutocompleter,
   argTypes: {
+    withSearch: { control: 'boolean' },
     backgroundColor: { control: 'boolean' }, // Add control for backgroundColor
-    multipleSelection: { control: 'boolean'}
+    multipleSelection: { control: 'boolean' }
   }
 } as Meta;
 
