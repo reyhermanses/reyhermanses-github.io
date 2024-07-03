@@ -5,6 +5,9 @@ on:
     branches:
       - main  # Change this to your main branch if it's named differently
 
+permissions:
+  contents: write  # Add this to grant write permissions
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -16,7 +19,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '18'  # Use the Node.js version you are using in your project
+          node-version: '20'  # Use the Node.js version you are using in your project
 
       - name: Install dependencies
         run: npm install
