@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/reyhermanses/reyhermanses-github.io/static/css/main.921d5720.css",
-    "main.js": "/reyhermanses/reyhermanses-github.io/static/js/main.bfbe70a2.js",
-    "static/js/453.2740a670.chunk.js": "/reyhermanses/reyhermanses-github.io/static/js/453.2740a670.chunk.js",
-    "static/media/logo.svg": "/reyhermanses/reyhermanses-github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/reyhermanses/reyhermanses-github.io/index.html",
-    "main.921d5720.css.map": "/reyhermanses/reyhermanses-github.io/static/css/main.921d5720.css.map",
-    "main.bfbe70a2.js.map": "/reyhermanses/reyhermanses-github.io/static/js/main.bfbe70a2.js.map",
-    "453.2740a670.chunk.js.map": "/reyhermanses/reyhermanses-github.io/static/js/453.2740a670.chunk.js.map"
+    "main.css": "/reyhermanses-github.io/static/css/main.4a886cfd.css",
+    "main.js": "/reyhermanses-github.io/static/js/main.0c873a31.js",
+    "static/js/453.2740a670.chunk.js": "/reyhermanses-github.io/static/js/453.2740a670.chunk.js",
+    "static/media/logo.svg": "/reyhermanses-github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reyhermanses-github.io/index.html",
+    "main.4a886cfd.css.map": "/reyhermanses-github.io/static/css/main.4a886cfd.css.map",
+    "main.0c873a31.js.map": "/reyhermanses-github.io/static/js/main.0c873a31.js.map",
+    "453.2740a670.chunk.js.map": "/reyhermanses-github.io/static/js/453.2740a670.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.921d5720.css",
-    "static/js/main.bfbe70a2.js"
+    "static/css/main.4a886cfd.css",
+    "static/js/main.0c873a31.js"
   ]
 }
